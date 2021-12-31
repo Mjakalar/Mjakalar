@@ -5,6 +5,7 @@ youtube
 mail.ru @uzzer
 gmail scp6056
 github mjakalar
+deviantart mjakalar
 
 work:
 rutracker mjakalar
